@@ -1,0 +1,305 @@
+body {
+    background-image: url("Foret.gif");
+    background-size: cover;
+}
+.B1{
+    color: rgb(255, 255, 255);
+}
+.b1{
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+}
+.b2{
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+}
+.tableau{
+    margin-top: 75px;
+}
+.B2{
+    color: rgb(255, 255, 255);
+    margin-top: 50px;
+    font-size: 20px;
+}
+.B3{
+    color: rgb(255, 255, 255);
+    margin-top: 50px;
+    font-size: 20px;
+}
+.M1{
+    color: white;
+    font-size: 30px;
+    margin-top: 150px;
+}
+
+.button{
+    flex-wrap: wrap;
+    width: 100px;
+    height: 100px;
+    background-position: center;
+    background-size: cover;
+    border: none;
+    color: rgb(255, 255, 255);
+    padding: 100px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    margin: 5px 20px;
+    border-radius: 2rem;
+    margin-left: 25%;
+    margin-right: 33%;
+    margin-top: 100px;
+    justify-content: center;
+    transition: 0.75s;
+}
+.button1{
+    background-image: url(Gauche1.jpg);
+}
+.button2{
+    background-image: url(Droite1.png);
+}
+.button3{
+    background-image: url(Level1Gauche.webp);
+}
+.button4{
+    background-image: url(Level1Droite.webp);
+}
+.button5{
+    background-image: url(Level19Gauche.webp);
+}
+.button6{
+    background-image: url(Level19Droite.webp);
+}
+.button7{
+    background-image: url(Level80Gauche.jpg);
+}
+.button8{
+    background-image: url(Level80Droite.jpg);
+}
+.button9{
+    background-image: url(Level152Gauche.webp);
+}
+.button10{
+    background-image: url(Level152Droite.webp);
+}
+.button11{
+    background-image: url(Level269Gauche.png);
+}
+.button12{
+    background-image: url(Level269Droite.jpg);
+}
+.button13{
+    background-image: url(Level36Droite.webp);
+}
+.button14{
+    background-image: url(Level36Gauche.webp);
+}
+.button15{
+    background-image: url(Level287Gauche.jpg);
+}
+.button16{
+    background-image: url(Level287Droite.jpg);
+}
+.button17{
+    background-image: url(Level112Gauche.webp);
+}
+.button18{
+    background-image: url(Level112Droite.jpg);
+}
+.button19{
+    background-image: url(Level860Gauche.webp);
+}
+.button20{
+    background-image: url(Level860Droite.jpg);
+}
+.button21{
+    background-image: url(Level4Gauche.webp);
+}
+.button22{
+    background-image: url(Level4Droite.jpg);
+}
+.button23{
+    background-image: url(Level37Gauche.webp);
+}
+.button24{
+    background-image: url(Level37Droite.webp);
+}
+.button25{
+    background-image: url(Level0\(spe\)Gauche.png);
+}
+.button26{
+    background-image: url(Level0\(spe\)Droite.webp);
+}
+.button27{
+    background-image: url(Level73Gauche.webp);
+}
+.button28{
+    background-image: url(Level73Droite.webp);
+}
+.button29{
+    background-image: url(Level132Gauche.webp);
+}
+.button30{
+    background-image: url(Level132Droite.webp);
+}
+.button31{
+    background-image: url(Level230Gauche.webp);
+}
+.button32{
+    background-image: url(Level230Droite.jpg);
+}
+.btn1{
+    background-image: url(Porte.jpg);
+    margin-left: 500px;
+    margin-right: 500px;
+}
+.button:hover{
+    width: 150px;
+    height: 150px;
+    justify-content: center;
+    align-items: center;
+}
+.btn{
+    flex-wrap: wrap;
+    width: 300px;
+    height: 100px;
+    background-position: center;
+    background-size: cover;
+    border: none;
+    color: rgb(255, 255, 255);
+    padding: 100px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    margin: 5px 20px;
+    border-radius: 2rem;
+    margin-left: 300px;
+    margin-right: 33%;
+    margin-top: 25px;
+    justify-content: center;
+}
+.btn2{
+    background-image: url(test2.jpg);
+}
+.btn3{
+    background-image: url(Level1.jpg);
+}
+.btn4{
+    background-image: url(Level19.jpg);
+}
+.btn5{
+    background-image: url(Mort1.png);
+    margin-left: 500px;
+    margin-right: 500px;
+}
+.btn6{
+    background-image: url(Level80.webp);
+}
+.btn7{
+    background-image: url(Level152.webp);
+}
+.btn8{
+    background-image: url(Mort2.webp);
+    margin-left: 500px;
+    margin-right: 500px;
+}
+.btn9{
+    background-image: url(Fin1.webp);
+    margin-left: 500px;
+    margin-right: 500px;
+}
+.btn10{
+    background-image: url(Level269.webp);
+}
+.btn11{
+    background-image: url(Mort3.jpg);
+    margin-left: 500px;
+    margin-right: 500px;
+}
+.btn12{
+    background-image: url(Mort4.jpg);
+    margin-left: 500px;
+    margin-right: 500px;
+}
+.btn13{
+    background-image: url(Level36.webp);
+}
+.btn14{
+    background-image: url(Level287.webp);
+}
+.btn15{
+    background-image: url(Mort5.webp);
+    margin-left: 500px;
+    margin-right: 500px;
+}
+.btn16{
+    background-image: url(Level112.webp);
+}
+.btn17{
+    background-image: url(Level860.webp);
+}
+.btn18{
+    background-image: url(Mort6.webp);
+    margin-left: 500px;
+    margin-right: 500px;
+}
+.btn19{
+    background-image: url(Fin2.webp);
+    margin-left: 500px;
+    margin-right: 500px;
+}
+.btn20{
+    background-image: url(Level4.webp);
+}
+.btn21{
+    background-image: url(Level37.webp);
+}
+.btn22{
+    background-image: url(Level0\(spe\).jpg);
+}
+.btn23{
+    background-image: url(Mort7.jpg);
+    margin-left: 500px;
+    margin-right: 500px;
+}
+.btn23{
+    background-image: url(Mort8.jpg);
+    margin-left: 500px;
+    margin-right: 500px;
+}
+.btn24{
+    background-image: url(Level73.webp);
+}
+.btn25{
+    background-image: url(Mort9.webp);
+    margin-left: 500px;
+    margin-right: 500px;
+}
+.btn26{
+    background-image: url(Level132.webp);
+}
+.btn27{
+    background-image: url(Level230.webp);
+}
+.btn28{
+    background-image: url(Mort11.webp);
+    margin-left: 500px;
+    margin-right: 500px;
+}
+.btn29{
+    background-image: url(Mort10.webp);
+    margin-left: 500px;
+    margin-right: 500px;
+}
+.btn30{
+    background-image: url(TheEnd.webp);
+    margin-left: 500px;
+    margin-right: 500px;
+}
+.btn31{
+    background-image: url(Fin3.webp);
+    margin-left: 500px;
+    margin-right: 500px;
+}
